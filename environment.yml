@@ -1,0 +1,10 @@
+name: test-slack-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - streamlit
+  - hydra-core
+  - omegaconf
+  - pandas

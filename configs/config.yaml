@@ -1,0 +1,4 @@
+paths:
+  channel_root: "./data/channels"   # 채널 JSON 파일들이 저장된 폴더
+  dm_root: "./data/dms"             # DM JSON 파일들이 저장된 폴더
+  user_mapping_file: "./data/user_mapping.json" # 사용자 매핑 JSON 파일 경로
